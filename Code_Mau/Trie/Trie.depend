@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544242102 source:d:\uit_dhcntt\code\code_mau\trie\trie.cpp
+	<iostream>
+	<bits/stdc++.h>
+

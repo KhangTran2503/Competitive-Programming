@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542395821 source:d:\uit_dhcntt\code\project_euler\problem14\problem14.cpp
+	<iostream>
+	<bits/stdc++.h>
+

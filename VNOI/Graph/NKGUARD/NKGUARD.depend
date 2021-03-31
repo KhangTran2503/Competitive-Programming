@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543689299 source:d:\uit_dhcntt\code\vnoi\graph\nkguard\nkguard.cpp
+	<iostream>
+	<bits/stdc++.h>
+
